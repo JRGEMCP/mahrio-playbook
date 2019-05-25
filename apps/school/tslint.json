@@ -1,0 +1,7 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [true, "attribute", "mahrio-playbook", "camelCase"],
+    "component-selector": [true, "element", "mahrio-playbook", "kebab-case"]
+  }
+}
